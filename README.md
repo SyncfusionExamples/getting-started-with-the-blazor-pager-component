@@ -62,6 +62,7 @@ dotnet run
 - `Client/` — Contains the Blazor WebAssembly client application.
 
 - `Client/Pages/Index.razor` — Main sample page demonstrating Pager and ListView integration.
+  
 - `Server/` — Hosts and serves the Blazor WebAssembly application.
 
 - `Shared/` — Contains shared models and resources used by both the Client and Server projects.
